@@ -11,7 +11,7 @@ go get -v github.com/dreddsa5dies/simpleDirWalker
 Examples of use, see [examples](https://github.com/dreddsa5dies/simpleDirWalker/tree/master/_examples)
 
 ## License
-This project is licensed under MIT license. Please read the [LICENSE](https://github.com/dreddsa5dies/simpleDirWalker/tree/master/LICENSE.md)file.
+This project is licensed under MIT license. Please read the [LICENSE](https://github.com/dreddsa5dies/simpleDirWalker/tree/master/LICENSE.md) file.
 
 ## Contribute
 Welcomes any kind of contribution. Please read the [CONTRIBUTING](https://github.com/dreddsa5dies/simpleDirWalker/tree/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT](https://github.com/dreddsa5dies/simpleDirWalker/tree/master/CODE_OF_CONDUCT.md) file.
